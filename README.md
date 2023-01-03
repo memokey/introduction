@@ -14,7 +14,7 @@ I am a senior frontend engineer
 <div style='display: flex; '>
 <img src='./doc/react.svg' width='50'>
 <img src='./doc/js.svg' width='50'>
-<img src='./doc/next.svg' height='50'>
+<img src='./doc/next.png' height='50'>
 <img src='./doc/web3.webp' width='50'>
 <img src='./doc/rust.png' width='90'>
 <img src='./doc/solidity.png' width='115'>
