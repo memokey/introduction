@@ -27,3 +27,34 @@ I am a senior frontend engineer
 
 ### Git Work
 ![Review](./doc/review.svg)
+
+### Contact Me
+<!-- #### Social Link -->
+<div style='display: flex; '>
+<!-- <a href='https://www.linkedin.com/in/andrey-brooks-8aa28625b/' target='_blank' width='100'>
+<img src='./doc/linkedin.png' width='90' title='+12096833894'>
+</a> -->
+<!-- <img src='./doc/twitter.png' width='100' title='+12096833894'> -->
+</div>
+
+#### Telecommunication
+<div style='display: flex; '>
+<a href='mailto:+12096833894' target='_blank' width='100'>
+<img src='./doc/phone.svg' width='100' title='+12096833894'>
+</a>
+<a href='mailto:memok.gmd@gmail.com' target='_blank' width='100'>
+<img src='./doc/mail.svg' width='100' title='memok.gmd@gmail.com'>
+</a>
+<a href='https://join.skype.com/invite/NffEWcmhlBAM' target='_blank' width='100'>
+<img src='./doc/skype.svg' width='100' title='live:.cid.fd8ced07bdabb2c3'>
+</a>
+<a href='https://t.me/@goldenstar11111' target='_blank' width='100'>
+<img src='./doc/telegram.svg' width='132' title='goldenstar11111'>
+</a>
+<a href='https://discordapp.com/users/CryptoSuper#4847' target='_blank' width='100'>
+<img src='./doc/discord.svg' width='118' title='CryptoSuper#4847'>
+</a>
+<a href='https://wa.me/12098134202' target='_blank' width='100'>
+<img src='./doc/whatsapp.png' width='100' title='+12098134202'>
+</a>
+</div>
