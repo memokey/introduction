@@ -52,7 +52,7 @@ I am a senior frontend engineer.
 <img src='./doc/telegram.svg' width='132' title='super_125'>
 </a>
 <a href='https://discordapp.com/users/Super_#7916' target='_blank' width='100'>
-<img src='./doc/discord.svg' width='118' title='CryptoSuper#4847'>
+<img src='./doc/discord.svg' width='118' title='Super_#7916'>
 </a>
 <a href='https://wa.me/12098134202' target='_blank' width='100'>
 <img src='./doc/whatsapp.png' width='100' title='+12098134202'>
