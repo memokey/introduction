@@ -48,10 +48,10 @@ I am a senior frontend engineer
 <a href='https://join.skype.com/invite/NffEWcmhlBAM' target='_blank' width='100'>
 <img src='./doc/skype.svg' width='100' title='live:.cid.fd8ced07bdabb2c3'>
 </a>
-<a href='https://t.me/@goldenstar11111' target='_blank' width='100'>
-<img src='./doc/telegram.svg' width='132' title='goldenstar11111'>
+<a href='https://t.me/super_125' target='_blank' width='100'>
+<img src='./doc/telegram.svg' width='132' title='super_125'>
 </a>
-<a href='https://discordapp.com/users/CryptoSuper#4847' target='_blank' width='100'>
+<a href='https://discordapp.com/users/Super_#7916' target='_blank' width='100'>
 <img src='./doc/discord.svg' width='118' title='CryptoSuper#4847'>
 </a>
 <a href='https://wa.me/12098134202' target='_blank' width='100'>
