@@ -28,7 +28,7 @@ I am a senior frontend engineer.
 ### Git Work
 ![Review](./doc/review.svg)
 
-### Contact Me
+<!-- ### Contact Me -->
 <!-- #### Social Link -->
 <div style='display: flex; '>
 <!-- <a href='https://www.linkedin.com/in/andrey-brooks-8aa28625b/' target='_blank' width='100'>
