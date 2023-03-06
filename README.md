@@ -37,7 +37,7 @@ I am a senior frontend engineer.
 <!-- <img src='./doc/twitter.png' width='100' title='+12096833894'> -->
 </div>
 
-#### Telecommunication
+<!-- #### Telecommunication
 <div style='display: flex; '>
 <a href='mailto:+12096833894' target='_blank' width='100'>
 <img src='./doc/phone.svg' width='100' title='+12096833894'>
@@ -57,4 +57,4 @@ I am a senior frontend engineer.
 <a href='https://wa.me/12098134202' target='_blank' width='100'>
 <img src='./doc/whatsapp.png' width='100' title='+12098134202'>
 </a>
-</div>
+</div> -->
