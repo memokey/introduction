@@ -1,5 +1,5 @@
 # Hello 👋
-## A Senior Frontend enginner
+## A Senior Frontend engineer
 ![profile views](./doc/profileview.svg)
 
 I am currently working remotely.
