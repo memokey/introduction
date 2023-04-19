@@ -1,12 +1,12 @@
 # Hello 👋
-## A Senior Frontend Engineer
+## A Senior Full-stack Engineer
 ![profile views](./doc/profileview.svg)
 
 I am currently working remotely.
 
 ❤️ **Constantly learning** ❤️
 
-I am a senior frontend engineer.
+I am a senior full-stack engineer.
  He is an accomplished software engineer, highly skilled in both front-end and back-end web development. He is friendly, cooperative, and adaptive, which allows him to blend into any team and project with ease. He is also a highly motivated and hardworking person who delivers outstanding work in an organized, reliable, and consistent manner.
 
 ### About Me
@@ -31,7 +31,7 @@ I am a senior frontend engineer.
 <!-- ### Contact Me -->
 <!-- #### Social Link -->
 <div style='display: flex; '>
-<!-- <a href='https://www.linkedin.com/in/andrey-brooks-8aa28625b/' target='_blank' width='100'>
+<!-- <a href='https://www.linkedin.com/in/eduardo-diaz-879263261/' target='_blank' width='100'>
 <img src='./doc/linkedin.png' width='90' title='+12096833894'>
 </a> -->
 <!-- <img src='./doc/twitter.png' width='100' title='+12096833894'> -->
@@ -39,10 +39,10 @@ I am a senior frontend engineer.
 
 <!-- #### Telecommunication
 <div style='display: flex; '>
-<a href='mailto:+12096833894' target='_blank' width='100'>
+<a href='mailto:+13233321317' target='_blank' width='100'>
 <img src='./doc/phone.svg' width='100' title='+12096833894'>
 </a>
-<a href='mailto:memok.gmd@gmail.com' target='_blank' width='100'>
+<a href='mailto:skytopground@gmail.com' target='_blank' width='100'>
 <img src='./doc/mail.svg' width='100' title='memok.gmd@gmail.com'>
 </a>
 <a href='https://join.skype.com/invite/NffEWcmhlBAM' target='_blank' width='100'>
@@ -54,7 +54,7 @@ I am a senior frontend engineer.
 <a href='https://discordapp.com/users/Super_#7916' target='_blank' width='100'>
 <img src='./doc/discord.svg' width='118' title='Super_#7916'>
 </a>
-<a href='https://wa.me/12098134202' target='_blank' width='100'>
-<img src='./doc/whatsapp.png' width='100' title='+12098134202'>
+<a href='https://wa.me/13233321317' target='_blank' width='100'>
+<img src='./doc/whatsapp.png' width='100' title='+13233321317'>
 </a>
 </div> -->
