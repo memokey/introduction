@@ -24,10 +24,6 @@ I am a senior full-stack engineer.
 <img src='./doc/mysql.svg' width='50'>
 </div>
 
-
-### Git Work
-![Review](./doc/review.svg)
-
 <!-- ### Contact Me -->
 <!-- #### Social Link -->
 <div style='display: flex; '>
