@@ -9,8 +9,7 @@ I am currently working remotely.
 I am a senior full-stack engineer.
  He is an accomplished software engineer, highly skilled in both front-end and back-end web development. He is friendly, cooperative, and adaptive, which allows him to blend into any team and project with ease. He is also a highly motivated and hardworking person who delivers outstanding work in an organized, reliable, and consistent manner.
 
-### About Me
-#### Main Skills
+### Main Skills
 <div style='display: flex; '>
 <img src='./doc/react.svg' width='50'>
 <img src='./doc/js.svg' width='50'>
