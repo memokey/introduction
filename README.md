@@ -1,10 +1,9 @@
 ## Senior Full-stack Engineer
 ![profile views](./doc/profileview.svg)
 
-I am currently working remotely.
+He is currently working remotely.
 
-I am a senior full-stack engineer.
- He is an accomplished software engineer, highly skilled in both front-end and back-end web development. He is friendly, cooperative, and adaptive, which allows him to blend into any team and project with ease. He is also a highly motivated and hardworking person who delivers outstanding work in an organized, reliable, and consistent manner.
+He is an accomplished software engineer, highly skilled in both front-end and back-end web development. He is friendly, cooperative, and adaptive, which allows him to blend into any team and project with ease. He is also a highly motivated and hardworking person who delivers outstanding work in an organized, reliable, and consistent manner.
 
 ### Main Skills
 <div style='display: flex; '>
