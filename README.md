@@ -1,4 +1,4 @@
-## A Senior Full-stack Engineer
+## Senior Full-stack Engineer
 ![profile views](./doc/profileview.svg)
 
 I am currently working remotely.
